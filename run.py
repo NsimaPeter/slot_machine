@@ -1,18 +1,21 @@
 import random
 
-#This is the symbols and their respective weights
+# This is the symbols and their respective weights
 symbols = ['Football', 'Bell', 'Lemon', 'Orange', 'Star', 'Moon']
 weights = [0.4, 0.3, 0.2, 0.05, 0.03, 0.02]
 
 # This is Function to spin the slot machine
 def spin():
+    
     # Generate three random symbols
     result = [random.choices(symbols, weights)[0] for _ in range(3)]
     return result
 
-#This is Function to display the result
+
+# This is Function to display the result
 def display_result(result):
     print(' | '.join(result))
+
 
 # This is Function to check if the result is a winning combination
 def check_win(result):
@@ -36,6 +39,6 @@ def play_game():
         if choice.lower() != 'y':
             break
 
+
 # Start the game
 play_game()
-
