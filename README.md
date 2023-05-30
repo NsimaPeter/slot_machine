@@ -12,7 +12,7 @@ If all three symbols are the same, you win!
 You will be asked if you want to play again. Enter 'y' to continue playing or any other key to exit the game.
 
 # Features
-*Random board generation
+* Random board generation
 
 gitpod /workspace/slot_machine (main) $ python3 run.py
 === Welcome to the Text-Based Slot Machine ===
