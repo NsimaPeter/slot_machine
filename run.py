@@ -4,6 +4,7 @@ import random
 symbols = ['Football', 'Bell', 'Lemon', 'Orange', 'Star', 'Moon']
 weights = [0.4, 0.3, 0.2, 0.05, 0.03, 0.02]
 
+
 # This is Function to spin the slot machine
 def spin():
     
