@@ -38,7 +38,7 @@ Do you want to play again? (y/n): y
 
 
 # Testing
-* Passed througha PEP8 linter and comfirmed there was no problem
+* Passed througha PEP8 python validator and comfirmed there was no problem
 * Tested on my local terminal
 
 # Bugs
