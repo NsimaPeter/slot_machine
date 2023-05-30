@@ -1,6 +1,6 @@
 import random
 
-# This is the symbols and their respective weights
+# Defining the symbols and their respective weights
 symbols = ['Football', 'Bell', 'Lemon', 'Orange', 'Star', 'Moon']
 weights = [0.4, 0.3, 0.2, 0.05, 0.03, 0.02]
 
