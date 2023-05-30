@@ -38,12 +38,12 @@ Do you want to play again? (y/n): y
 
 
 # Testing
-.Passed througha PEP8 linter and comfirmed there was no problem
-.Tested on my local terminal
+* Passed througha PEP8 linter and comfirmed there was no problem
+* Tested on my local terminal
 
 # Bugs
 #remaining Bugs
-.No bugs remaining
+* No bugs remaining
 
 # Deployment
 the project is deployed on this hosting plaform Github pages through this steps
