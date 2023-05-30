@@ -1,5 +1,5 @@
 # Slot_machine
-This is a simple text-based slot machine game implemented in Python. The game allows players to spin the virtual slot machine and see if they win based on the combination of symbols.
+This is a simple text-based slot machine game implemented using Python. The game allows players to spin the slot machine and see if they win based on the combination of symbols.
 
 ![image](https://github.com/NsimaPeter/slot_machine/assets/122939682/9c8288b0-0f5f-479f-a7ac-40d3d0492705)
 
