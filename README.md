@@ -19,19 +19,18 @@ Press Enter to spin the slot machine...5
 Football | Football | Football
 Congratulations! You won!
 Do you want to play again? (y/n): y
+
 Press Enter to spin the slot machine...4
 Bell | Bell | Football
 Sorry, you lost. Try again!
 Do you want to play again? (y/n): y
+
 Press Enter to spin the slot machine...5
 Moon | Lemon | Football
 Sorry, you lost. Try again!
 Do you want to play again? (y/n): y
+
 Press Enter to spin the slot machine...1
 Bell | Lemon | Football
 Sorry, you lost. Try again!
 Do you want to play again? (y/n): y
-Press Enter to spin the slot machine...0
-Football | Bell | Bell
-Sorry, you lost. Try again!
-Do you want to play again? (y/n): 
